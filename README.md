@@ -23,7 +23,7 @@ The dataset includes the following fields:
 
 ##  Data Cleaning Steps
 
-1.**Understanding the Quality of the Data**
+1. **Understanding the Quality of the Data**
    - Detected Missing Values.
    - Confirmed the Data types.
    - Detected Duplictes.
