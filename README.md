@@ -24,10 +24,11 @@ The dataset includes the following fields:
 ##  Data Cleaning Steps
 
 1.**Understanding the Quality of the Data**
-  -Detected Missing Values.
-  -Confirmed the Data types.
-  -Detected Duplictes.
-  -Confirmed the Shape of the Data.
+   -Detected Missing Values.
+   -Confirmed the Data types.
+   -Detected Duplictes.
+   -Confirmed the Shape of the Data.
+  
 2. **Invalid Value Replacement**
    - Replaced erroneous entries such as `"ERROR"` and `"UNKNOWN"` with null (`NaN`) values.
 
